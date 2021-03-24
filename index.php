@@ -9,15 +9,15 @@ require_once 'model/Category.php';
 require_once 'model/StatusProduct.php';
 require_once 'model/Product.php';
 
-$unit=new Unit();
-$unit->find(28);
-$unit->name="0,357 кг";
-// $unit->save();
-echo '<pre>';
-var_dump($unit);
-// var_dump($unit2);
-echo '</pre>';
-// $unit->save();
+// $unit=new Unit();
+// $unit->find(28);
+// $unit->name="0,357 кг";
+// // $unit->save();
+// echo '<pre>';
+// var_dump($unit);
+// // var_dump($unit2);
+// echo '</pre>';
+// // $unit->save();
 
 
 // $unit2=new Unit();
